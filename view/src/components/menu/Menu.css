@@ -1,0 +1,13 @@
+.title {
+    text-align: center;
+    width: 100%;
+    color: white;
+    font-weight: bold ;
+    padding: 30px;
+    background-color: #21D4FD;
+    background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
+}
+.menu {
+    width: 80%;
+    margin: auto;
+}

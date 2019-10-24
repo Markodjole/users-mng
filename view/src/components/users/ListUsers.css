@@ -1,0 +1,40 @@
+.wrapper {
+  width: 80%;
+  margin: auto;
+}
+.table {
+  padding: 5%;
+}
+.userList {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.userList div {
+    display: flex;
+    padding: 10px;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  .createUser {
+    background: white;
+    position: relative;
+    top: 30px;
+    right: 50px;
+    position: absolute;
+    color: purple;
+    border: 1px solid white;
+  }
